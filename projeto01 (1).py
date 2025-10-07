@@ -9,7 +9,7 @@ Original file is located at
 
 import tracemalloc
 
-tracemalloc.start()  # inicia a medição uma única vez no começo do programa
+tracemalloc.start()
 
 def monitoramento_memoria(mensagem):
     memoria_atual, memoria_pico = tracemalloc.get_traced_memory()
@@ -240,5 +240,5 @@ def modo_interativo(fila):
             print("Comando inválido. Tente novamente.")
 
 
-modo_interativo(fila)
+#modo_interativo(fila)
 
