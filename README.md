@@ -86,9 +86,3 @@ Paciente Mary (P) foi atendido.
 Digite um comando: show
 [Carlos (N)]-->[Aurora (P)]-->...-->None
 ```
-
----
-
-Se você quiser, posso também criar uma **versão visual do README em Markdown** já pronta para colocar no GitHub, com **exemplos de saída e cores para comandos**, que fica mais apresentável.
-
-Quer que eu faça isso?
